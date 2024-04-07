@@ -1,10 +1,12 @@
-# 👋 아이오티타임(IOTEATIME)
+# <div align=center>🌱☕️ 아이오티타임(IOTEATIME)</div>
+<div align=center>
+  
 ![319399050-6d0d1fca-13ac-4d66-ae40-4962f8c3c0c5](https://github.com/nhnacademy-aiot1-5/.github/assets/98167706/3d23f643-97ba-44ad-878b-e5bab3184d3b)<br>
 NHN Academy 최종 프로젝트 5팀 입니다.
-
+</div>
 <br>
 
-## 👩‍💻 팀 구성원
+## <div align=center>👩‍💻 팀 구성원</div>
 | ![유승진](https://avatars.githubusercontent.com/u/101241360?v=4) | ![이동민](https://avatars.githubusercontent.com/u/87228426?v=4) | ![이은지](https://avatars.githubusercontent.com/u/78470571?v=4) | ![이정용](https://avatars.githubusercontent.com/u/98167706?v=4) | ![임세연](https://avatars.githubusercontent.com/u/124178635?v=4) | ![하준영](https://avatars.githubusercontent.com/u/96714243?v=4) | ![허시영](https://avatars.githubusercontent.com/u/102939647?v=4) |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | AIGY01-021 | AIGY01-025 | AIGY01-026 | AIGY01-027 | AIGY01-030 | AIGY01-037 | AIGY01-039 |
@@ -13,7 +15,7 @@ NHN Academy 최종 프로젝트 5팀 입니다.
 
 <br>
 
-## 🛠️ 프로젝트
+## <div align=center>🛠️ 프로젝트</div>
 ### 💡 스마트 전력 관리 시스템
 스마트 전력 관리 시스템은 사용자의 전력 소비를 효율적으로 관리하고 예산을 지키며,<br>
 환경에 더 나은 영향을 미치기 위한 자동화된 시스템입니다.<br>
@@ -51,4 +53,6 @@ NHN Academy 최종 프로젝트 5팀 입니다.
 <br>
 
 ---
+<div align=center>
 CopyrightⒸ2024. All rights reserved by IOTEATIME.
+</div>
