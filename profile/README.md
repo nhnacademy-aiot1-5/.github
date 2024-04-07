@@ -1,8 +1,36 @@
 # <div align=center>🌱☕️ 아이오티타임(IOTEATIME)</div>
 <div align=center>
   
-![319399050-6d0d1fca-13ac-4d66-ae40-4962f8c3c0c5](https://github.com/nhnacademy-aiot1-5/.github/assets/98167706/3d23f643-97ba-44ad-878b-e5bab3184d3b)<br>
+![319399050-6d0d1fca-13ac-4d66-ae40-4962f8c3c0c5](https://github.com/nhnacademy-aiot1-5/.github/assets/98167706/3d23f643-97ba-44ad-878b-e5bab3184d3b)
+<br>
+<br>
+👋 반갑습니다,<br>
 NHN Academy 최종 프로젝트 5팀 입니다.
+<br>
+<br>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<br>
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/influxdb-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white">
+<img src="https://img.shields.io/badge/mosquitto-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white">
+<img src="https://img.shields.io/badge/nodered-8F0000?style=for-the-badge&logo=nodered&logoColor=white">
+<img src="https://img.shields.io/badge/telegraf-EC5F43?style=for-the-badge&logo=influxdb&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/nhncloud-2B5CDE?style=for-the-badge&logo=cloudera&logoColor=white">
+<img src="https://img.shields.io/badge/sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white">
+
 </div>
 <br>
 
