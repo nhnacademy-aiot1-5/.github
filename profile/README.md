@@ -80,6 +80,10 @@ NHN Academy 최종 프로젝트 5팀 입니다.
 
 <br>
 
+#### 프로젝트 아키텍처
+![프로젝트 아키텍처](https://github.com/nhnacademy-aiot1-5/.github/assets/96714243/c1a52086-a8bb-4d35-8856-9a4aecb69e06)
+
+
 ---
 <div align=center>
 CopyrightⒸ2024. All rights reserved by IOTEATIME.
