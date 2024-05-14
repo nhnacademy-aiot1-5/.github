@@ -8,6 +8,9 @@
 NHN Academy 최종 프로젝트 5팀 입니다.
 <br>
 <br>
+### [ioteatime.live](ioteatime.live)
+<br>
+<br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -17,7 +20,6 @@ NHN Academy 최종 프로젝트 5팀 입니다.
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/influxdb-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white">
@@ -50,7 +52,7 @@ NHN Academy 최종 프로젝트 5팀 입니다.
 이 시스템은 전력 소비 패턴을 분석하여 최적의 에너지 사용 방법을 제안하고,<br>
 사용자가 설정한 예산과 목표치를 고려하여 전력을 자동으로 조절합니다.
 
-#### 2. 기능 설명
+#### 1. 기능 설명
 - `예산 및 목표 설정` 사용자는 시스템을 통해 한달 예산 및 전력 소비 목표치를 설정할 수 있습니다.
 - `전력 소비 분석` 시스템은 사용자의 전력 소비 패턴을 분석하여 어디에서 전력을 많이 소비하는지 식별합니다.
 - `자동 조절` 설정된 예산과 목표치를 고려하여, 전력을 자동으로 조절하고 문제점을 리포트합니다.
@@ -58,23 +60,18 @@ NHN Academy 최종 프로젝트 5팀 입니다.
 - `전력량 예측` 남은 일수와 현재 사용량을 고려하여 한달 전력 소비량을 예측하고, 예산을 초과할 경우 경고를 제공합니다.
 - `환경 센서 활용` 재실, 온도, 조도, CO2 등의 센서를 활용하여 전력 소비를 최적화하고 효율적으로 관리합니다.
 
-#### 3. 시나리오
+#### 2. 시나리오
 - 사용자가 한달 예산과 전력 소비 목표치를 설정합니다.
 - 시스템은 사용자의 전력 소비 패턴을 분석하고, 자동으로 전력을 조절하여 목표치를 달성합니다.
 - 전력 사용이 예산을 초과할 것으로 예상될 때, 시스템은 경고를 발송하고 절약할 수 있는 방법을 제안합니다.
 - 환경 센서를 통해 사람이 많이 몰리는 시간대를 예측하여 조명과 난방 시스템을 효율적으로 관리합니다.
 
-#### 4. 기대효과
+#### 3. 기대효과
 - 전력 소비의 효율적 관리를 통해 예산을 절약할 수 있습니다.
 - 환경에 미치는 부정적 영향을 최소화하고, 지속 가능한 에너지 사용을 촉진합니다.
 - 사용자의 편의성을 높이고 생활 품질을 향상시킵니다.
 
-#### 6. 기술 스택
-- `프로그래밍 언어` Python, JavaScript, Java
-- `소프트웨어` MySQL, InfluxDB, Mosquitto, Node-RED, Telegraf
-- `프레임워크` Spring Boot, Flask
-
-#### 7. 결 론
+#### 4. 결 론
 스마트 전력 관리 시스템은 사용자의 편의성과 환경적 지속 가능성을 모두 고려한 전력 관리 솔루션으로,<br>
 전력 소비의 효율성을 높이고 지속 가능한 미래를 위한 한 걸음을 나아가는 데 기여할 것으로 기대됩니다.
 
