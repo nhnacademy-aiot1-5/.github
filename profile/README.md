@@ -8,7 +8,7 @@
 NHN Academy 최종 프로젝트 5팀 입니다.
 <br>
 <br>
-### [ioteatime.live](https://www.ioteatime.live)
+### [www.ioteatime.live](https://www.ioteatime.live)
 <br>
 <br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
