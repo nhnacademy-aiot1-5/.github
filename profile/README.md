@@ -18,20 +18,35 @@ NHN Academy 최종 프로젝트 5팀 입니다.
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+<img src="https://img.shields.io/badge/spring batch-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/netflix eureka-6DB33F?style=for-the-badge&logo=netflix&logoColor=white">
+<img src="https://img.shields.io/badge/spring gateway-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/influxdb-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white">
+<img src="https://img.shields.io/badge/redis-BF3633?style=for-the-badge&logo=redis&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/mosquitto-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white">
 <img src="https://img.shields.io/badge/nodered-8F0000?style=for-the-badge&logo=nodered&logoColor=white">
-<img src="https://img.shields.io/badge/telegraf-EC5F43?style=for-the-badge&logo=influxdb&logoColor=white">
+<img src="https://img.shields.io/badge/docker-2267E9?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/rabbit mq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/nhncloud-2B5CDE?style=for-the-badge&logo=cloudera&logoColor=white">
 <img src="https://img.shields.io/badge/sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white">
+<br>
+<br>
+<br>
+
+| <br>🖥️<br>프론트 서비스<br>[프로젝트 바로가기](https://github.com/nhnacademy-aiot1-5/front-service)<br>&nbsp; | ⚙️<br>API 서비스<br>[프로젝트 바로가기](https://github.com/nhnacademy-aiot1-5/api-service) | 🤖<br>AI 서비스<br>[프로젝트 바로가기](https://github.com/nhnacademy-aiot1-5/ai-service) | ⚙️<br>룰 엔진<br>[프로젝트 바로가기](https://github.com/nhnacademy-aiot1-5/rule-engine) | 🔗<br>브릿지 서버<br>[프로젝트 바로가기](https://github.com/nhnacademy-aiot1-5/bridge-server) |
+|:--:|:--:|:--:|:--:|:--:|
+| <br>📦<br>스케줄링 배치 서버<br>[프로젝트 바로가기](https://github.com/nhnacademy-aiot1-5/batch-server)<br>&nbsp; | 🎛️<br>컨트롤 서비스<br>[프로젝트 바로가기](https://github.com/nhnacademy-aiot1-5/control-service) | 🔐<br>인증 서비스<br>[프로젝트 바로가기](https://github.com/nhnacademy-aiot1-5/auth-service) | 🕋<br>API 게이트웨이<br>[프로젝트 바로가기](https://github.com/nhnacademy-aiot1-5/gateway-service) | ☁️<br>디스커버리 서비스<br>[프로젝트 바로가기](https://github.com/nhnacademy-aiot1-5/discovery-service) |
 
 </div>
 <br>
@@ -76,6 +91,8 @@ NHN Academy 최종 프로젝트 5팀 입니다.
 <br>
 
 #### 프로젝트 아키텍처
+<img width="1270" alt="image" src="https://github.com/nhnacademy-aiot1-5/.github/assets/98167706/0bc9a73c-ff2c-48c9-a087-653ab9d921e4">
+
 ![프로젝트 아키텍쳐](https://github.com/nhnacademy-aiot1-5/.github/assets/98167706/990684a5-c342-4bed-8e2f-6989aea1c762)
 
 ---
