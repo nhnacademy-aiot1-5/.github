@@ -1,71 +1,89 @@
-# <div align=center>🌱☕️ 아이오티타임(IOTEATIME)</div>
 <div align=center>
   
-![319399050-6d0d1fca-13ac-4d66-ae40-4962f8c3c0c5](https://github.com/nhnacademy-aiot1-5/.github/assets/98167706/3d23f643-97ba-44ad-878b-e5bab3184d3b)
-<br>
-<br>
-👋 반갑습니다,<br>
-NHN Academy 최종 프로젝트 5팀 입니다.
-<br>
-<br>
-### [www.ioteatime.live](https://www.ioteatime.live)
-<br>
-<br>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<br>
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
-<img src="https://img.shields.io/badge/spring batch-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/netflix eureka-6DB33F?style=for-the-badge&logo=netflix&logoColor=white">
-<img src="https://img.shields.io/badge/spring gateway-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/influxdb-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white">
-<img src="https://img.shields.io/badge/redis-BF3633?style=for-the-badge&logo=redis&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/mosquitto-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white">
-<img src="https://img.shields.io/badge/nodered-8F0000?style=for-the-badge&logo=nodered&logoColor=white">
-<img src="https://img.shields.io/badge/docker-2267E9?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/rabbit mq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/nhncloud-2B5CDE?style=for-the-badge&logo=cloudera&logoColor=white">
-<img src="https://img.shields.io/badge/sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white">
-<br>
-<br>
-<br>
+  # 🌱☕️ 아이오티타임(IOTEATIME)
 
-| <br>🖥️<br>프론트 서비스<br>[프로젝트 바로가기](https://github.com/nhnacademy-aiot1-5/front-service)<br>&nbsp; | ⚙️<br>API 서비스<br>[프로젝트 바로가기](https://github.com/nhnacademy-aiot1-5/api-service) | 🤖<br>AI 서비스<br>[프로젝트 바로가기](https://github.com/nhnacademy-aiot1-5/ai-service) | ⚙️<br>룰 엔진<br>[프로젝트 바로가기](https://github.com/nhnacademy-aiot1-5/rule-engine) | 🔗<br>브릿지 서버<br>[프로젝트 바로가기](https://github.com/nhnacademy-aiot1-5/bridge-server) |
-|:--:|:--:|:--:|:--:|:--:|
-| <br>📦<br>스케줄링 배치 서버<br>[프로젝트 바로가기](https://github.com/nhnacademy-aiot1-5/batch-server)<br>&nbsp; | 🎛️<br>컨트롤 서비스<br>[프로젝트 바로가기](https://github.com/nhnacademy-aiot1-5/control-service) | 🔐<br>인증 서비스<br>[프로젝트 바로가기](https://github.com/nhnacademy-aiot1-5/auth-service) | 🕋<br>API 게이트웨이<br>[프로젝트 바로가기](https://github.com/nhnacademy-aiot1-5/gateway-service) | ☁️<br>디스커버리 서비스<br>[프로젝트 바로가기](https://github.com/nhnacademy-aiot1-5/discovery-service) |
+  | ![유승진](https://avatars.githubusercontent.com/u/101241360?v=4) | ![이동민](https://avatars.githubusercontent.com/u/87228426?v=4) | ![이은지](https://avatars.githubusercontent.com/u/78470571?v=4) | ![이정용](https://avatars.githubusercontent.com/u/98167706?v=4) | ![임세연](https://avatars.githubusercontent.com/u/124178635?v=4) | ![하준영](https://avatars.githubusercontent.com/u/96714243?v=4) | ![허시영](https://avatars.githubusercontent.com/u/102939647?v=4) |
+  |:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+  | 유승진 | 이동민 | 이은지 | 이정용 | 임세연 | 하준영 | 허시영 |
+  | [![Button](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/haedanui) | [![Button](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DongMirror) | [![Button](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/siddltkfkd) | [![Button](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jeongyongs) | [![Button](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/caboooom) | [![Button](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/codethestudent) | [![Button](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/huhsiyoung) |
+  
+  <br>
+
+  [![319399050-6d0d1fca-13ac-4d66-ae40-4962f8c3c0c5](https://github.com/nhnacademy-aiot1-5/.github/assets/98167706/3d23f643-97ba-44ad-878b-e5bab3184d3b)](#)
+
+  <br>
+  
+  반갑습니다👋<br>
+  NHN Academy 최종 프로젝트 5팀 입니다.
+  
+  <br>
+
+  ### [www.ioteatime.live](https://www.ioteatime.live)
+
+  <br>
+  <br>
+
+  [<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">](#)
+  [<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">](#)
+  [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">](#)
+  <br>
+  [<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">](#)
+  [<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">](#)
+  [<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">](#)
+  [<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white">](#)
+  <br>
+  [<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">](#)
+  [<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">](#)
+  [<img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat-square&logo=springboot&logoColor=white">](#)
+  [<img src="https://img.shields.io/badge/Spring%20Cloud%20Netflix-6DB33F?style=flat-square&logo=netflix&logoColor=white">](#)
+  [<img src="https://img.shields.io/badge/Spring%20Cloud%20Gateway-6DB33F?style=flat-square&logo=spring boot&logoColor=white">](#)
+  <br>
+  [<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">](#)
+  [<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white">](#)
+  [<img src="https://img.shields.io/badge/Redis-BF3633?style=flat-square&logo=redis&logoColor=white">](#)
+  [<img src="https://img.shields.io/badge/Mosquitto-3C5280?style=flat-square&logo=eclipsemosquitto&logoColor=white">](#)
+  [<img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white">](#)
+  [<img src="https://img.shields.io/badge/Docker-2267E9?style=flat-square&logo=docker&logoColor=white">](#)
+  [<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white">](#)
+  <br>
+  [<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white">](#)
+  [<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">](#)
+  [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">](#)
+  [<img src="https://img.shields.io/badge/NHN%20Cloud-2B5CDE?style=flat-square&logo=cloudera&logoColor=white">](#)
+  [<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white">](#)
+  
+  <br>
+  <br>
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot1-5&repo=front-service)](https://github.com/nhnacademy-aiot1-5/front-service)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot1-5&repo=api-service)](https://github.com/nhnacademy-aiot1-5/api-service)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot1-5&repo=ai-service)](https://github.com/nhnacademy-aiot1-5/ai-service)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot1-5&repo=rule-engine)](https://github.com/nhnacademy-aiot1-5/rule-engine)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot1-5&repo=bridge-server)](https://github.com/nhnacademy-aiot1-5/bridge-server)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot1-5&repo=batch-server)](https://github.com/nhnacademy-aiot1-5/batch-server)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot1-5&repo=control-service)](https://github.com/nhnacademy-aiot1-5/control-service)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot1-5&repo=auth-service)](https://github.com/nhnacademy-aiot1-5/auth-service)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot1-5&repo=gateway-service)](https://github.com/nhnacademy-aiot1-5/gateway-service)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot1-5&repo=discovery-service)](https://github.com/nhnacademy-aiot1-5/discovery-service)
 
 </div>
-<br>
-
-## <div align=center>👩‍💻 팀 구성원</div>
-| ![유승진](https://avatars.githubusercontent.com/u/101241360?v=4) | ![이동민](https://avatars.githubusercontent.com/u/87228426?v=4) | ![이은지](https://avatars.githubusercontent.com/u/78470571?v=4) | ![이정용](https://avatars.githubusercontent.com/u/98167706?v=4) | ![임세연](https://avatars.githubusercontent.com/u/124178635?v=4) | ![하준영](https://avatars.githubusercontent.com/u/96714243?v=4) | ![허시영](https://avatars.githubusercontent.com/u/102939647?v=4) |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| AIGY01-021 | AIGY01-025 | AIGY01-026 | AIGY01-027 | AIGY01-030 | AIGY01-037 | AIGY01-039 |
-| 유승진 | 이동민 | 이은지 | 이정용 | 임세연 | 하준영 | 허시영 |
-| [GitHub](https://github.com/haedanui) | [GitHub](https://github.com/asasassm) | [GitHub](https://github.com/siddltkfkd) | [GitHub](https://github.com/jeongyongs) | [GitHub](https://github.com/caboooom) | [GitHub](https://github.com/codethestudent) | [GitHub](https://github.com/huhsiyoung) |
 
 <br>
 
-## <div align=center>🛠️ 프로젝트</div>
-### 💡 스마트 전력 관리 시스템
-스마트 전력 관리 시스템은 사용자의 전력 소비를 효율적으로 관리하고 예산을 지키며,<br>
-환경에 더 나은 영향을 미치기 위한 자동화된 시스템입니다.<br>
-사용자가 설정한 예산과 목표치 대비 현재 상황을 모니터링할 수 있으며,
-환경 센서를 활용하여 전력을 자동으로 조절합니다.
+<div align=center>
+  
+  ## 🛠️ 프로젝트
+  
+</div>
+
+### 💡 지능형 IoT 기술을 이용한 스마트 전력 관리 시스템
+
+스마트 전력 관리 시스템은 사용자의 전력 소비를 효율적으로 관리하고 예산을 지키며, 환경에 더 나은 영향을 미치기 위한 자동화된 시스템입니다.<br>
+사용자가 설정한 예산과 목표치 대비 현재 상황을 모니터링할 수 있으며, 환경 센서를 활용하여 전력을 자동으로 조절합니다.
+
+<br>
+
+![Image](https://github.com/nhnacademy-aiot1-5/.github/assets/98167706/0bc9a73c-ff2c-48c9-a087-653ab9d921e4)
 
 #### 1. 기능 설명
 - `예산 및 목표 설정` 사용자는 시스템을 통해 한달 예산 및 전력 소비 목표치를 설정할 수 있습니다.
@@ -89,11 +107,6 @@ NHN Academy 최종 프로젝트 5팀 입니다.
 전력 소비의 효율성을 높이고 지속 가능한 미래를 위한 한 걸음을 나아가는 데 기여할 것으로 기대됩니다.
 
 <br>
-
-#### 프로젝트 아키텍처
-<img width="1270" alt="image" src="https://github.com/nhnacademy-aiot1-5/.github/assets/98167706/0bc9a73c-ff2c-48c9-a087-653ab9d921e4">
-
-![프로젝트 아키텍쳐](https://github.com/nhnacademy-aiot1-5/.github/assets/98167706/990684a5-c342-4bed-8e2f-6989aea1c762)
 
 ---
 <div align=center>
