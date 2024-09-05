@@ -18,7 +18,8 @@
   
   <br>
 
-  ### [www.ioteatime.live](https://www.ioteatime.live)
+  ### ~~[www.ioteatime.live](https://www.ioteatime.live)~~ 만료
+  ### [시연 영상(Youtube)](https://www.youtube.com/watch?v=Rm6TbBA3Nzg)
 
   <br>
   <br>
